@@ -1,9 +1,10 @@
 # YouTube video selector
+
 YouTube video selector allows users to search and select videos from YouTube.
 
 ![YouTube video selector](YouTubeVideoSelector.gif)
 
-# Usage
+## Usage
 
 To use the YouTube video selector in your Kentico Cloud project:
 
@@ -12,16 +13,17 @@ To use the YouTube video selector in your Kentico Cloud project:
 * Add **Custom element** content element
 * Open configuration of the content element
 * Use following URL as Hosted code URL (HTTPS): https://kentico.github.io/custom-element-samples/YouTube/index.html
-* Provide the following JSON parameters for the custom element, to get an API key for the YouTube API vist https://developers.google.com/youtube/v3/getting-started
+* Provide the following JSON parameters for the custom element,
+ to get an API key for the YouTube API visit https://developers.google.com/youtube/v3/getting-started
 
-```
+```json
 {
   "apiKey": "<YOUR API KEY>"
 }
 ```
 
-# Installation
+## Installation
 
-YoutTube video selector source code is in following repository: https://github.com/Bassetts/kc-youtube
+YouTube video selector source code is in following repository: https://github.com/Bassetts/kc-youtube
 
-If you want to customise the element please follow the instructions in source code repository README.md 
+If you want to customize the element please follow the instructions in [source code repository `README.md`](https://github.com/Bassetts/kc-youtube/Readme.mhttps://github.com/Bassetts/kc-youtube/blob/master/README.md).
