@@ -27,3 +27,25 @@ To use the YouTube video selector in your Kentico Cloud project:
 YouTube video selector source code is in following repository: https://github.com/Bassetts/kc-youtube
 
 If you want to customize the element please follow the instructions in [source code repository `README.md`](https://github.com/Bassetts/kc-youtube/Readme.mhttps://github.com/Bassetts/kc-youtube/blob/master/README.md).
+
+## Example output
+
+The element will save a value containing the video title and id to Kentico cloud.
+
+```
+{
+  "item": {
+    ...
+    "elements": {
+      ...
+      "youtube": {
+        "type": "custom",
+        "name": "Youtube",
+        "value": {"title":"What Is Headless CMS?","videoId":"U5_H9cD17gA"} // or null
+      }
+      ...
+    }
+  }
+  ...
+}
+```
