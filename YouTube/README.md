@@ -26,7 +26,7 @@ To use the YouTube video selector in your Kentico Cloud project:
 
 YouTube video selector source code is in following repository: https://github.com/Bassetts/kc-youtube
 
-If you want to customize the element please follow the instructions in [source code repository `README.md`](https://github.com/Bassetts/kc-youtube/Readme.mhttps://github.com/Bassetts/kc-youtube/blob/master/README.md).
+If you want to customize the element please follow the instructions in [source code repository `README.md`](https://github.com/Bassetts/kc-youtube/Readme.md).
 
 ## Example output
 
